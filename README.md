@@ -2,4 +2,4 @@
 Démineur Démoniaque
 
 
-Jeu démineur fait en python avec une ambiance trés terrifiante..;
+Jeu démineur fait en python avec une ambiance trés terrifiante..
